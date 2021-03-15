@@ -1,5 +1,5 @@
 # RememberThat
-The website development practice by following steps by steps with the course "HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!"
+The website development practice with the course "HTML and CSS Tutorial for 2021 - COMPLETE Crash Course!"
 Implement mobile navigation and RWD
 
 Language:HTML / CSS / Javascript
